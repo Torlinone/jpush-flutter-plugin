@@ -43,6 +43,7 @@ dependencies {
     implementation 'com.huawei.hms:push:4.0.2.300'
     implementation 'cn.jiguang.sdk.plugin:huawei:3.9.5'
     implementation 'com.huawei.agconnect:agconnect-core:1.4.2.301'
+    implementation 'cn.jiguang.sdk.plugin:xiaomi:3.8.0'
 //    implementation 'com.android.support:appcompat-v7:28.+'
     compileOnly files('libs/flutter.jar')
 }
